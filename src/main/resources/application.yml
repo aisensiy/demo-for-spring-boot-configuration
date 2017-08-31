@@ -1,0 +1,9 @@
+sso:
+  clientId: clientId
+  clientSecret: clientSecret
+
+oauth:
+  client_id: id
+  client-secret: secret
+  redirect_uri: htt
+  grantType: code
